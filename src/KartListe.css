@@ -1,0 +1,14 @@
+.kart-liste {
+  font-family: sans-serif;
+}
+.kart-liste img{
+  max-width: 100%;
+}
+.kartlar {
+  display: flex;
+  gap: 1rem;
+}
+
+.kartlar > div {
+  flex: 1;
+}
